@@ -12,3 +12,5 @@ jobs:
         run: "echo 'Hei pÃ¥ deg GitHub Actions!'"
       - name: "Echo Goodnight"
         run: "echo 'Natta!'"
+      - name: "Add like button"
+        uses: ariary/Readme-Like-Button
