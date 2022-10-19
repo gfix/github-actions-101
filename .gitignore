@@ -16,3 +16,7 @@ notes.db
 
 # Published Notes.Api
 Notes.Published/
+
+# Jetbrains IDEA
+.idea
+
