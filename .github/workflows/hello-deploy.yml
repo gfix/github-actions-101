@@ -48,4 +48,5 @@ jobs:
         with:
           action: deploy
           manifests: Kubernetes.yaml
+          images: devops101registry.azurecr.io/gfix-notes-api:v${{ github.run_number }}
           
